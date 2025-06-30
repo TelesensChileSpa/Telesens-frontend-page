@@ -11,7 +11,7 @@ useHead({
 });
 
 const mission = ref(`Proveer soluciones avanzadas de monitoreo y análisis de datos mediante telemetría inteligente, potenciando decisiones precisas en sectores productivos como la agricultura, psicultura, industria y medio ambiente.`);
-const vision = ref(`Ser referentes en innovación tecnológica para monitoreo en tiempo real, liderando la transformación digital en Chile con soluciones eficientes, seguras y sostenibles.`);
+const vision = ref(`Ser referentes en innovación tecnológica para monitoreo en tiempo real, liderando la transformación digital en Chile con soluciones eficientes, seguras y sostenibles mediante el uso de las mejores tecnologias.`);
 
 const isVisible = ref(false);
 
