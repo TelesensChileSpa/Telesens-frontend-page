@@ -26,7 +26,7 @@ const sections = [
     id: 'agricultura',
     title: 'Agricultura Inteligente',
     description: 'Maximiza tu productividad con monitoreo en tiempo real de cultivos, optimización de recursos hídricos y alertas predictivas.',
-    image: 'https://res-console.cloudinary.com/dobkjiqyn/thumbnails/v1/image/upload/v1744161059/bG9nb19sZXRyYXNfd2ViX3RrMndseQ==/drilldown',
+    image: 'https://res.cloudinary.com/dobkjiqyn/image/upload/v1745279295/WAWAW_Mesa_de_trabajo_1_dg5svu.webp',
     icon: '🌱',
     features: ['Sensores de humedad del suelo', 'Estaciones meteorológicas', 'Monitoreo inteligente 24/7'],
     color: 'from-green-500 to-emerald-600'
@@ -61,15 +61,15 @@ const stats = [
 
 const benefits = [
   {
-    title: 'Implementación Rápida',
-    description: 'Instalación y configuración en menos de 24 horas',
+    title: 'Implementación Profesional',
+    description: 'Instalación y configuración realizada por profesionales',
     icon: '⚡',
     color: 'bg-yellow-500'
   },
   {
-    title: 'Sin Inversión Inicial',
-    description: 'Modelo de suscripción flexible sin costos de entrada',
-    icon: '💰',
+    title: 'Monitoreo continuo 24/7',
+    description: 'Vista de análisis constante en todo momento',
+    icon: '⏰',
     color: 'bg-green-500'
   },
   {
