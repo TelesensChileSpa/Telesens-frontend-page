@@ -61,7 +61,7 @@ const stats = [
 
 const benefits = [
   {
-    title: 'Implementación Profesional',
+    title: 'Implementación Rápida',
     description: 'Instalación y configuración realizada por profesionales',
     icon: '⚡',
     color: 'bg-yellow-500'
