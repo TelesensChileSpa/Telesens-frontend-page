@@ -11,7 +11,7 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     '@pinia/nuxt'
   ],
-  
+
   css: ['~/assets/css/main.css'],
 
   // Configuración del módulo color-mode
@@ -47,8 +47,8 @@ export default defineNuxtConfig({
       link: [
         {
           rel: 'icon',
-          href: '/favicon.ico',
-          type: 'image/x-icon',
+          type: 'image/png',
+          href: '/favicon.png',
         },
       ],
     },
